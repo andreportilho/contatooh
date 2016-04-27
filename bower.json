@@ -1,0 +1,14 @@
+{
+  "name": "contatooh",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-route": "^1.5.5",
+    "bootstrap": "^3.3.6",
+    "angular-resource": "^1.5.5"
+  }
+}
